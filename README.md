@@ -1,1 +1,1 @@
-# people-recognition
+# people-recognition-by-image
