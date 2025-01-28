@@ -42,4 +42,4 @@ The dataset contains images of five famous individuals, with each image preproce
 ## Inspired By
 This project is based on a tutorial from YouTube Codebasics. The original GitHub repository can be found here: https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
 
-Feel free to provide feedback or suggestions for improvement. You can reach me at Email: mfauzanfauzan123@gmail.com and Linkedin: https://www.linkedin.com/in/muhammad-fauzan-6b650528a
+Feel free to provide feedback or suggestions for improvement. You can reach me at Email: mfauzanfauzan123@gmail.com and Linkedin: [Linkedin](https://www.linkedin.com/in/muhammadfauzandsml/)
